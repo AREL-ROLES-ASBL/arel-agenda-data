@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-19T16:29:39Z",
+  "generated_at": "2026-11-19T18:19:07Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -211,7 +211,7 @@
       "location": "Canard Paon, rue de Neufchâteau 153 A, 6700 Arlon",
       "channel": null,
       "cover_image_url": "https://cdn.discordapp.com/guild-events/1571550249338667038/aca15aacf093e8df221f097b00a3b585.png?size=1024",
-      "interested_count": 1,
+      "interested_count": 2,
       "creator_id": "1350031960923177001",
       "recurrence": null,
       "arel": {
