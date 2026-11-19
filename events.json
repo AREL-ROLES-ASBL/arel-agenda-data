@@ -1,12 +1,43 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-19T12:12:56Z",
+  "generated_at": "2026-11-19T12:15:46Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
   },
   "events": [
+    {
+      "id": "1571821433347112981",
+      "name": "🎲 AREL-RÔLES SERA AU ARLON GAME FESTIVAL !",
+      "description": "📅 **Les 21 et 22 novembre 2026**\n\nVous aimez les jeux, l'aventure et l'imaginaire ? Venez nous retrouver ce week-end au **Arlon Game Festival** !\n\nDurant ces deux journées, les Maîtres de Jeu d'AREL-Rôles vous proposeront de **courtes initiations à Donjons & Dragons**.\n\nL'occasion idéale de découvrir le jeu de rôle, d'incarner un personnage, de lancer quelques dés et de vivre vos premières aventures dans un univers fantastique !\n\n⚔️ **Aucune expérience nécessaire !**\nQue vous soyez curieux, débutant ou joueur confirmé, passez nous voir !\n\nNous vous attendons nombreux pour partager un moment de jeu et de convivialité !\n\n**AREL-Rôles – Le jeu de rôle à Arlon.**",
+      "url": "https://discord.com/events/1350032902510870538/1571821433347112981",
+      "status": "scheduled",
+      "entity_type": "external",
+      "start_time": "2026-11-21T09:00:00Z",
+      "end_time": "2026-11-22T17:00:00Z",
+      "location": "Hall Polyvalent d'Arlon",
+      "channel": null,
+      "cover_image_url": "https://cdn.discordapp.com/guild-events/1571821433347112981/19d42d7785696b92c94555a1242debaa.png?size=1024",
+      "interested_count": 2,
+      "creator_id": "1350031960923177001",
+      "recurrence": null,
+      "arel": {
+        "category": "One-shot",
+        "universe": "Donjons & Dragons 5e",
+        "setting": "Médiéval fantastique",
+        "audience": "Tous niveaux",
+        "capacity": {
+          "minimum": 1,
+          "maximum": 1
+        },
+        "sessions": {
+          "minimum": 1,
+          "maximum": 1
+        },
+        "publish": true
+      }
+    },
     {
       "id": "1556578910592958535",
       "name": "(Complet) Groupe 3 : Suite de la Campagne \"Le Festin du Prince\"",
