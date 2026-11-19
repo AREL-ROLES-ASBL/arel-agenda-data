@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-19T12:15:46Z",
+  "generated_at": "2026-11-19T13:20:09Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -34,6 +34,54 @@
         "sessions": {
           "minimum": 1,
           "maximum": 1
+        },
+        "publish": true
+      }
+    },
+    {
+      "id": "1556729665702461511",
+      "name": "Campagne d'Initiation : La Légende des Cinq Anneaux",
+      "description": "Public - Débutants et confirmés\nPlaces disponibles - 4\nDurée - 4 à 6 sessions \nSetting - Fantasy médiévale japonaise\n\nÀ Rokugan, l'Empire d'Émeraude existe depuis un millénaire. Sous la direction des nobles empereurs Hantei, les clans majeurs protègent le pays contre les menaces venues de l'extérieur comme de l'intérieur, et ce, depuis que les Kamis sont descendus des Cieux pour répandre leurs bienfaits sur Rokugan. \n\nComme tous les samouraïs de l'Empire d'Émeraude, votre devoir consiste à servir votre seigneur, votre clan et votre empereur. Parviendrez-vous à l'effectuer avec loyauté, malgré tous les sacrifices qu'il impose ?",
+      "url": "https://discord.com/events/1350032902510870538/1556729665702461511",
+      "status": "scheduled",
+      "entity_type": "external",
+      "start_time": "2026-11-25T18:00:00Z",
+      "end_time": "2026-11-25T21:30:00Z",
+      "location": "Maison des Jeunes, 40 Rue de la Caserne 6700 Arlon",
+      "channel": null,
+      "cover_image_url": "https://cdn.discordapp.com/guild-events/1556729665702461511/db2e4e6ef5fcc334f6c79687313f4f6a.png?size=1024",
+      "interested_count": 4,
+      "creator_id": "353249139334578187",
+      "recurrence": {
+        "rule": {
+          "start": "2026-10-28T18:00:00+00:00",
+          "end": null,
+          "frequency": 2,
+          "interval": 2,
+          "by_weekday": [
+            2
+          ],
+          "by_n_weekday": null,
+          "by_month": null,
+          "by_month_day": null,
+          "by_year_day": null,
+          "count": null
+        },
+        "exceptions": [],
+        "exceptions_available": true
+      },
+      "arel": {
+        "category": "Campagne",
+        "universe": "La Légende des 5 Anneaux",
+        "setting": "Fantasy médiévale japonaise",
+        "audience": "Débutant",
+        "capacity": {
+          "minimum": 5,
+          "maximum": 5
+        },
+        "sessions": {
+          "minimum": 6,
+          "maximum": 6
         },
         "publish": true
       }
