@@ -1,1 +1,42 @@
-
+{
+  "schema_version": 2,
+  "source": "discord_scheduled_events",
+  "generated_at": "2026-11-19T12:11:18Z",
+  "guild": {
+    "id": "1350032902510870538",
+    "name": "AREL-Rôles ASBL"
+  },
+  "events": [
+    {
+      "id": "1571550249338667038",
+      "name": "🎲 ENVIE DE DÉCOUVRIR DONJONS & DRAGONS ?",
+      "description": "Vous avez toujours voulu découvrir l'univers du jeu de rôle, incarner un héros, explorer des mondes fantastiques et vivre des aventures extraordinaires ?\n\nAREL-Rôles vous donne rendez-vous chez Canard Paon !\n\n📅 Samedi 5 décembre 2026\n🕜 De 13h30 à 17h30\n📍 Chez Canard Paon\n\nNous vous proposons une initiation gratuite au jeu de rôle pour découvrir Donjons & Dragons dans une ambiance conviviale et accessible à tous.\n\nAucune expérience préalable n'est nécessaire ! Que vous soyez curieux, débutant ou simplement tenté par l'aventure, nos Maîtres de Jeu vous guideront pas à pas.\n\nParticipation entièrement gratuite !\n\n📩 Inscription obligatoire : arel.roles@gmail.com\n\nVenez tenter l'aventure avec AREL-Rôles !",
+      "url": "https://discord.com/events/1350032902510870538/1571550249338667038",
+      "status": "scheduled",
+      "entity_type": "external",
+      "start_time": "2026-12-05T12:30:00Z",
+      "end_time": "2026-12-05T16:30:00Z",
+      "location": "Canard Paon, rue de Neufchâteau 153 A, 6700 Arlon",
+      "channel": null,
+      "cover_image_url": "https://cdn.discordapp.com/guild-events/1571550249338667038/aca15aacf093e8df221f097b00a3b585.png?size=1024",
+      "interested_count": 1,
+      "creator_id": "1350031960923177001",
+      "recurrence": null,
+      "arel": {
+        "category": "Initiation",
+        "universe": "Donjons & Dragons 5e",
+        "setting": "Médiéval fantastique",
+        "audience": "Débutant",
+        "capacity": {
+          "minimum": 3,
+          "maximum": 6
+        },
+        "sessions": {
+          "minimum": 1,
+          "maximum": 1
+        },
+        "publish": true
+      }
+    }
+  ]
+}
