@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-20T21:00:40Z",
+  "generated_at": "2026-11-21T09:00:38Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -12,7 +12,7 @@
       "name": "🎲 AREL-RÔLES SERA AU ARLON GAME FESTIVAL !",
       "description": "📅 **Les 21 et 22 novembre 2026**\n\nVous aimez les jeux, l'aventure et l'imaginaire ? Venez nous retrouver ce week-end au **Arlon Game Festival** !\n\nDurant ces deux journées, les Maîtres de Jeu d'AREL-Rôles vous proposeront de **courtes initiations à Donjons & Dragons**.\n\nL'occasion idéale de découvrir le jeu de rôle, d'incarner un personnage, de lancer quelques dés et de vivre vos premières aventures dans un univers fantastique !\n\n⚔️ **Aucune expérience nécessaire !**\nQue vous soyez curieux, débutant ou joueur confirmé, passez nous voir !\n\nNous vous attendons nombreux pour partager un moment de jeu et de convivialité !\n\n**AREL-Rôles – Le jeu de rôle à Arlon.**",
       "url": "https://discord.com/events/1350032902510870538/1571821433347112981",
-      "status": "scheduled",
+      "status": "active",
       "entity_type": "external",
       "start_time": "2026-11-21T09:00:00Z",
       "end_time": "2026-11-22T17:00:00Z",
