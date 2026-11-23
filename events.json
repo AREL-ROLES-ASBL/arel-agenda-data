@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-23T16:12:11Z",
+  "generated_at": "2026-11-23T16:15:33Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -116,7 +116,7 @@
       "end_time": "2026-12-03T22:30:00Z",
       "location": "Maison des Jeunes, 40 Rue de la Caserne, 6700 Arlon",
       "channel": null,
-      "cover_image_url": null,
+      "cover_image_url": "https://cdn.discordapp.com/guild-events/1556579921382350958/ce0ef0e55d480b11b1468a389ab3a930.png?size=1024",
       "interested_count": 5,
       "creator_id": "1350031960923177001",
       "recurrence": {
