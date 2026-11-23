@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-23T15:39:33Z",
+  "generated_at": "2026-11-23T15:43:27Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -58,7 +58,7 @@
     },
     {
       "id": "1556578910592958535",
-      "name": "(Complet) Groupe 3 : Suite de la Campagne \"Le Festin du Prince\"",
+      "name": "🔴 [COMPLET] (Complet) Groupe 3 : Suite de la Campagne \"Le Festin du Prince\"",
       "description": "C'est reparti pour la suite de la Campagne débutée la saison passée.",
       "url": "https://discord.com/events/1350032902510870538/1556578910592958535",
       "status": "scheduled",
@@ -102,7 +102,7 @@
           "maximum": 6
         },
         "publish": true,
-        "full_manual": false
+        "full_manual": true
       }
     },
     {
