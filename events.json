@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-23T15:31:46Z",
+  "generated_at": "2026-11-23T15:39:33Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -107,7 +107,7 @@
     },
     {
       "id": "1556579921382350958",
-      "name": "🔴 [COMPLET] Nouveau : Campagne \"Les enfants disparus\"",
+      "name": "🔴 [COMPLET] Campagne \"Les enfants disparus\"",
       "description": "Bienvenue dans cette nouvelle campagne pour joueurs de niveau 1.",
       "url": "https://discord.com/events/1350032902510870538/1556579921382350958",
       "status": "scheduled",
