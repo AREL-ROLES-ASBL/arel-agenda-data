@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-23T15:43:27Z",
+  "generated_at": "2026-11-23T15:45:52Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -58,7 +58,7 @@
     },
     {
       "id": "1556578910592958535",
-      "name": "🔴 [COMPLET] (Complet) Groupe 3 : Suite de la Campagne \"Le Festin du Prince\"",
+      "name": "Groupe 3 : Suite de la Campagne \"Le Festin du Prince\"",
       "description": "C'est reparti pour la suite de la Campagne débutée la saison passée.",
       "url": "https://discord.com/events/1350032902510870538/1556578910592958535",
       "status": "scheduled",
@@ -107,7 +107,7 @@
     },
     {
       "id": "1556579921382350958",
-      "name": "🔴 [COMPLET] Campagne \"Les enfants disparus\"",
+      "name": "Campagne \"Les enfants disparus\"",
       "description": "Bienvenue dans cette nouvelle campagne pour joueurs de niveau 1.",
       "url": "https://discord.com/events/1350032902510870538/1556579921382350958",
       "status": "scheduled",
