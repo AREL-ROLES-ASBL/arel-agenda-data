@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-23T22:36:20Z",
+  "generated_at": "2026-11-23T22:53:43Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -166,6 +166,55 @@
         "sessions": {
           "minimum": 6,
           "maximum": 6
+        },
+        "publish": true,
+        "full_manual": true
+      }
+    },
+    {
+      "id": "1539380329083830383",
+      "name": "L'Obélisque Brisé",
+      "description": "Préparez vous à affronter les menaces des royaumes lointain",
+      "url": "https://discord.com/events/1350032902510870538/1539380329083830383",
+      "status": "scheduled",
+      "entity_type": "external",
+      "start_time": "2026-12-02T18:30:00Z",
+      "end_time": "2026-12-02T19:30:00Z",
+      "location": "MJ Arlon",
+      "channel": null,
+      "cover_image_url": "https://cdn.discordapp.com/guild-events/1539380329083830383/d6bfc5aaaeae34d9fbea85412b73c5e8.png?size=1024",
+      "interested_count": 3,
+      "creator_id": "422849578631430155",
+      "recurrence": {
+        "rule": {
+          "start": "2026-09-09T18:30:00+00:00",
+          "end": null,
+          "frequency": 2,
+          "interval": 2,
+          "by_weekday": [
+            2
+          ],
+          "by_n_weekday": null,
+          "by_month": null,
+          "by_month_day": null,
+          "by_year_day": null,
+          "count": null
+        },
+        "exceptions": [],
+        "exceptions_available": true
+      },
+      "arel": {
+        "category": "Campagne",
+        "universe": "Donjons & Dragons 5e",
+        "setting": "Médiéval fantastique",
+        "audience": "Confirmé",
+        "capacity": {
+          "minimum": 3,
+          "maximum": 6
+        },
+        "sessions": {
+          "minimum": 30,
+          "maximum": 30
         },
         "publish": true,
         "full_manual": true
