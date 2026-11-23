@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-23T14:39:09Z",
+  "generated_at": "2026-11-23T15:30:24Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -52,7 +52,8 @@
           "minimum": 6,
           "maximum": 6
         },
-        "publish": true
+        "publish": true,
+        "full_manual": false
       }
     },
     {
@@ -100,12 +101,13 @@
           "minimum": 6,
           "maximum": 6
         },
-        "publish": true
+        "publish": true,
+        "full_manual": false
       }
     },
     {
       "id": "1556579921382350958",
-      "name": "Nouveau : Campagne \"Les enfants disparus\"",
+      "name": "🔴 [COMPLET] Nouveau : Campagne \"Les enfants disparus\"",
       "description": "Bienvenue dans cette nouvelle campagne pour joueurs de niveau 1.",
       "url": "https://discord.com/events/1350032902510870538/1556579921382350958",
       "status": "scheduled",
@@ -148,7 +150,8 @@
           "minimum": 7,
           "maximum": 7
         },
-        "publish": true
+        "publish": true,
+        "full_manual": true
       }
     },
     {
@@ -205,7 +208,8 @@
           "minimum": 20,
           "maximum": 20
         },
-        "publish": true
+        "publish": true,
+        "full_manual": false
       }
     },
     {
@@ -236,7 +240,8 @@
           "minimum": 1,
           "maximum": 1
         },
-        "publish": true
+        "publish": true,
+        "full_manual": false
       }
     }
   ]
