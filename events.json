@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-23T22:32:34Z",
+  "generated_at": "2026-11-23T22:35:57Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -71,55 +71,6 @@
         },
         "publish": true,
         "full_manual": true
-      }
-    },
-    {
-      "id": "1574552794323488911",
-      "name": "test",
-      "description": "test",
-      "url": "https://discord.com/events/1350032902510870538/1574552794323488911",
-      "status": "scheduled",
-      "entity_type": "external",
-      "start_time": "2026-11-24T23:00:00Z",
-      "end_time": "2026-11-25T00:00:00Z",
-      "location": "test",
-      "channel": null,
-      "cover_image_url": "https://cdn.discordapp.com/guild-events/1574552794323488911/4213622f19a80653f41b322b1b6b6624.png?size=1024",
-      "interested_count": 1,
-      "creator_id": "449658304243826709",
-      "recurrence": {
-        "rule": {
-          "start": "2026-11-25T00:00:00+00:00",
-          "end": null,
-          "frequency": 2,
-          "interval": 1,
-          "by_weekday": [
-            2
-          ],
-          "by_n_weekday": null,
-          "by_month": null,
-          "by_month_day": null,
-          "by_year_day": null,
-          "count": null
-        },
-        "exceptions": [],
-        "exceptions_available": true
-      },
-      "arel": {
-        "category": "Campagne",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval fantastique",
-        "audience": "Débutant",
-        "capacity": {
-          "minimum": 3,
-          "maximum": 6
-        },
-        "sessions": {
-          "minimum": 8,
-          "maximum": 8
-        },
-        "publish": true,
-        "full_manual": false
       }
     },
     {
