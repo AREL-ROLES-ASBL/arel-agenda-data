@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-22T22:02:27Z",
+  "generated_at": "2026-11-23T14:39:09Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -99,6 +99,54 @@
         "sessions": {
           "minimum": 6,
           "maximum": 6
+        },
+        "publish": true
+      }
+    },
+    {
+      "id": "1556579921382350958",
+      "name": "Nouveau : Campagne \"Les enfants disparus\"",
+      "description": "Bienvenue dans cette nouvelle campagne pour joueurs de niveau 1.",
+      "url": "https://discord.com/events/1350032902510870538/1556579921382350958",
+      "status": "scheduled",
+      "entity_type": "external",
+      "start_time": "2026-12-03T18:30:00Z",
+      "end_time": "2026-12-03T22:30:00Z",
+      "location": "Maison des Jeunes, 40 Rue de la Caserne, 6700 Arlon",
+      "channel": null,
+      "cover_image_url": null,
+      "interested_count": 5,
+      "creator_id": "1350031960923177001",
+      "recurrence": {
+        "rule": {
+          "start": "2026-11-05T18:30:00+00:00",
+          "end": null,
+          "frequency": 2,
+          "interval": 2,
+          "by_weekday": [
+            3
+          ],
+          "by_n_weekday": null,
+          "by_month": null,
+          "by_month_day": null,
+          "by_year_day": null,
+          "count": null
+        },
+        "exceptions": [],
+        "exceptions_available": true
+      },
+      "arel": {
+        "category": "Campagne",
+        "universe": "Donjons & Dragons 5e",
+        "setting": "Médiéval Fantaisie",
+        "audience": "Débutant, Confirmé",
+        "capacity": {
+          "minimum": 4,
+          "maximum": 7
+        },
+        "sessions": {
+          "minimum": 7,
+          "maximum": 7
         },
         "publish": true
       }
