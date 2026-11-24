@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-24T14:38:31Z",
+  "generated_at": "2026-11-24T15:20:09Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -312,7 +312,7 @@
       },
       "arel": {
         "category": "Campagne",
-        "universe": "Wrath & Glory",
+        "universe": "Wrath & Glory - Warhammer 40000",
         "setting": "SF dans l'univers de Warhammer 40k",
         "audience": "Débutant, Confirmé",
         "capacity": {
