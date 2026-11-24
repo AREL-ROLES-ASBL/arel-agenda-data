@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-23T22:58:10Z",
+  "generated_at": "2026-11-24T14:38:31Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -112,14 +112,14 @@
         "audience": "Débutant",
         "capacity": {
           "minimum": 5,
-          "maximum": 5
+          "maximum": 6
         },
         "sessions": {
           "minimum": 6,
           "maximum": 6
         },
         "publish": true,
-        "full_manual": false
+        "full_manual": true
       }
     },
     {
