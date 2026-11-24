@@ -1,70 +1,12 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-24T18:30:38Z",
+  "generated_at": "2026-11-24T20:00:33Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
   },
   "events": [
-    {
-      "id": "1556735312749658223",
-      "name": "Session donjon et dragon débutant",
-      "description": "L'ancienne Bibliothèque du mage demi-orc Lethchaunthos vient d'être redécouverte... Serez vous de taille à redécouvrir les secrets enfouis et affronter les dangers de ce lieu mystique ?",
-      "url": "https://discord.com/events/1350032902510870538/1556735312749658223",
-      "status": "active",
-      "entity_type": "external",
-      "start_time": "2026-11-24T17:30:00Z",
-      "end_time": "2026-11-24T20:00:00Z",
-      "location": "Mj d'Arlon",
-      "channel": null,
-      "cover_image_url": "https://cdn.discordapp.com/guild-events/1556735312749658223/c3e99472acda55c01847bdff6b9fd9b0.png?size=1024",
-      "interested_count": 7,
-      "creator_id": "422849578631430155",
-      "recurrence": {
-        "rule": {
-          "start": "2026-10-13T17:30:00+00:00",
-          "end": null,
-          "frequency": 2,
-          "interval": 2,
-          "by_weekday": [
-            1
-          ],
-          "by_n_weekday": null,
-          "by_month": null,
-          "by_month_day": null,
-          "by_year_day": null,
-          "count": null
-        },
-        "exceptions": [
-          {
-            "event_id": "1556735312749658223",
-            "event_exception_id": "1579912947302400000",
-            "scheduled_start_time": "2026-12-08T18:30:00+00:00",
-            "scheduled_end_time": null,
-            "is_canceled": false,
-            "original_start_time": "2026-12-08T17:30:00Z"
-          }
-        ],
-        "exceptions_available": true
-      },
-      "arel": {
-        "category": "Campagne",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval fantastique",
-        "audience": "Confirmé",
-        "capacity": {
-          "minimum": 3,
-          "maximum": 6
-        },
-        "sessions": {
-          "minimum": 6,
-          "maximum": 6
-        },
-        "publish": true,
-        "full_manual": true
-      }
-    },
     {
       "id": "1556729665702461511",
       "name": "Campagne d'Initiation : La Légende des Cinq Anneaux",
@@ -349,6 +291,64 @@
         },
         "publish": true,
         "full_manual": false
+      }
+    },
+    {
+      "id": "1556735312749658223",
+      "name": "Session donjon et dragon débutant",
+      "description": "L'ancienne Bibliothèque du mage demi-orc Lethchaunthos vient d'être redécouverte... Serez vous de taille à redécouvrir les secrets enfouis et affronter les dangers de ce lieu mystique ?",
+      "url": "https://discord.com/events/1350032902510870538/1556735312749658223",
+      "status": "scheduled",
+      "entity_type": "external",
+      "start_time": "2026-12-08T17:30:00Z",
+      "end_time": "2026-12-08T20:00:00Z",
+      "location": "Mj d'Arlon",
+      "channel": null,
+      "cover_image_url": "https://cdn.discordapp.com/guild-events/1556735312749658223/c3e99472acda55c01847bdff6b9fd9b0.png?size=1024",
+      "interested_count": 7,
+      "creator_id": "422849578631430155",
+      "recurrence": {
+        "rule": {
+          "start": "2026-10-13T17:30:00+00:00",
+          "end": null,
+          "frequency": 2,
+          "interval": 2,
+          "by_weekday": [
+            1
+          ],
+          "by_n_weekday": null,
+          "by_month": null,
+          "by_month_day": null,
+          "by_year_day": null,
+          "count": null
+        },
+        "exceptions": [
+          {
+            "event_id": "1556735312749658223",
+            "event_exception_id": "1579912947302400000",
+            "scheduled_start_time": "2026-12-08T18:30:00+00:00",
+            "scheduled_end_time": null,
+            "is_canceled": false,
+            "original_start_time": "2026-12-08T17:30:00Z"
+          }
+        ],
+        "exceptions_available": true
+      },
+      "arel": {
+        "category": "Campagne",
+        "universe": "Donjons & Dragons 5e",
+        "setting": "Médiéval fantastique",
+        "audience": "Confirmé",
+        "capacity": {
+          "minimum": 3,
+          "maximum": 6
+        },
+        "sessions": {
+          "minimum": 6,
+          "maximum": 6
+        },
+        "publish": true,
+        "full_manual": true
       }
     }
   ]
