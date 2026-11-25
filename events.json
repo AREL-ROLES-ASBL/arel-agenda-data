@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-24T20:00:33Z",
+  "generated_at": "2026-11-25T18:00:41Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -12,7 +12,7 @@
       "name": "Campagne d'Initiation : La Légende des Cinq Anneaux",
       "description": "Public - Débutants et confirmés\nPlaces disponibles - 4\nDurée - 4 à 6 sessions \nSetting - Fantasy médiévale japonaise\n\nÀ Rokugan, l'Empire d'Émeraude existe depuis un millénaire. Sous la direction des nobles empereurs Hantei, les clans majeurs protègent le pays contre les menaces venues de l'extérieur comme de l'intérieur, et ce, depuis que les Kamis sont descendus des Cieux pour répandre leurs bienfaits sur Rokugan. \n\nComme tous les samouraïs de l'Empire d'Émeraude, votre devoir consiste à servir votre seigneur, votre clan et votre empereur. Parviendrez-vous à l'effectuer avec loyauté, malgré tous les sacrifices qu'il impose ?",
       "url": "https://discord.com/events/1350032902510870538/1556729665702461511",
-      "status": "scheduled",
+      "status": "active",
       "entity_type": "external",
       "start_time": "2026-11-25T18:00:00Z",
       "end_time": "2026-11-25T21:30:00Z",
