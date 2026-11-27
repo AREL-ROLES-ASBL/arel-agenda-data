@@ -1,12 +1,44 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-26T22:19:35Z",
+  "generated_at": "2026-11-27T18:15:20Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
   },
   "events": [
+    {
+      "id": "1575937666703298561",
+      "name": "Ceci est un test",
+      "description": "cei est un test",
+      "url": "https://discord.com/events/1350032902510870538/1575937666703298561",
+      "status": "scheduled",
+      "entity_type": "external",
+      "start_time": "2026-11-28T19:00:00Z",
+      "end_time": "2026-11-28T22:00:00Z",
+      "location": "test",
+      "channel": null,
+      "cover_image_url": "https://cdn.discordapp.com/guild-events/1575937666703298561/a102415da5b906cf65a78080a6618d1e.png?size=1024",
+      "interested_count": 1,
+      "creator_id": "449658304243826709",
+      "recurrence": null,
+      "arel": {
+        "category": "Campagne",
+        "universe": "Star Wars",
+        "setting": "Space opera",
+        "audience": "Débutant, Confirmé",
+        "capacity": {
+          "minimum": 5,
+          "maximum": 5
+        },
+        "sessions": {
+          "minimum": 8,
+          "maximum": 8
+        },
+        "publish": true,
+        "full_manual": false
+      }
+    },
     {
       "id": "1539380329083830383",
       "name": "L'Obélisque Brisé",
