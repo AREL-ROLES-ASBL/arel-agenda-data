@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-27T18:19:04Z",
+  "generated_at": "2026-11-27T23:23:47Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -357,6 +357,55 @@
         },
         "publish": true,
         "full_manual": true
+      }
+    },
+    {
+      "id": "1576015052430123038",
+      "name": "Les dragons de l'îles aux tempêtes",
+      "description": "Les dragons de l’île aux Tempêtes entraîne les \npersonnages au beau milieu d’une guerre ancestrale \nentre dragons au fil de l’exploration d’une île qui fut \nlongtemps le champ de bataille de prédilection de ces \ncréatures.",
+      "url": "https://discord.com/events/1350032902510870538/1576015052430123038",
+      "status": "scheduled",
+      "entity_type": "external",
+      "start_time": "2027-01-10T13:00:00Z",
+      "end_time": "2027-01-10T17:00:00Z",
+      "location": "Maison des Jeunes, 40 Rue de la Caserne, 6700 Arlon",
+      "channel": null,
+      "cover_image_url": "https://cdn.discordapp.com/guild-events/1576015052430123038/67f5e7d75b71baa7dc7d98d25952f67a.png?size=1024",
+      "interested_count": 1,
+      "creator_id": "252557143868309504",
+      "recurrence": {
+        "rule": {
+          "start": "2027-01-10T13:00:00+00:00",
+          "end": null,
+          "frequency": 2,
+          "interval": 2,
+          "by_weekday": [
+            6
+          ],
+          "by_n_weekday": null,
+          "by_month": null,
+          "by_month_day": null,
+          "by_year_day": null,
+          "count": null
+        },
+        "exceptions": [],
+        "exceptions_available": true
+      },
+      "arel": {
+        "category": "Campagne",
+        "universe": "Donjons & Dragons 5e",
+        "setting": "Médiéval fantastique",
+        "audience": "Débutant",
+        "capacity": {
+          "minimum": 3,
+          "maximum": 7
+        },
+        "sessions": {
+          "minimum": 4,
+          "maximum": 4
+        },
+        "publish": true,
+        "full_manual": false
       }
     }
   ]
