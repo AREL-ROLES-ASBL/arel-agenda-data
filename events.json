@@ -1,73 +1,12 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-28T16:00:40Z",
+  "generated_at": "2026-11-28T16:03:55Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
   },
   "events": [
-    {
-      "id": "1576244801022595093",
-      "name": "test",
-      "description": "ceci est un test",
-      "url": "https://discord.com/events/1350032902510870538/1576244801022595093",
-      "status": "active",
-      "entity_type": "external",
-      "start_time": "2026-11-28T16:00:00Z",
-      "end_time": "2026-11-28T18:00:00Z",
-      "location": "test",
-      "channel": null,
-      "cover_image_url": "https://cdn.discordapp.com/guild-events/1576244801022595093/4213622f19a80653f41b322b1b6b6624.png?size=1024",
-      "interested_count": 1,
-      "creator_id": "449658304243826709",
-      "recurrence": null,
-      "arel": {
-        "category": "Initiation",
-        "details": [
-          {
-            "key": "universe",
-            "label": "Jeu de rôle",
-            "value": "Donjons & Dragons 5e"
-          },
-          {
-            "key": "setting",
-            "label": "Cadre",
-            "value": "Médiéval fantastique"
-          },
-          {
-            "key": "audience",
-            "label": "Public visé",
-            "value": "Débutant"
-          },
-          {
-            "key": "age",
-            "label": "Âge recommandé",
-            "value": "12 ans et plus"
-          },
-          {
-            "key": "capacity",
-            "label": "Places",
-            "value": "6 personnes"
-          },
-          {
-            "key": "sessions",
-            "label": "Durée estimée",
-            "value": "1 séance"
-          }
-        ],
-        "capacity": {
-          "minimum": 5,
-          "maximum": 6
-        },
-        "sessions": {
-          "minimum": 1,
-          "maximum": 1
-        },
-        "publish": true,
-        "full_manual": false
-      }
-    },
     {
       "id": "1539380329083830383",
       "name": "L'Obélisque Brisé",
