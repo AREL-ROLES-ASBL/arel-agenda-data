@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-28T14:37:52Z",
+  "generated_at": "2026-11-28T14:52:39Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -24,15 +24,38 @@
       "recurrence": null,
       "arel": {
         "category": "Initiation",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval fantastique",
-        "audience": "Débutant",
-        "age_min": 12,
-        "age_max": null,
-        "age_range": {
-          "minimum": 12,
-          "maximum": null
-        },
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "Donjons & Dragons 5e"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "Médiéval fantastique"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Débutant"
+          },
+          {
+            "key": "age",
+            "label": "Âge recommandé",
+            "value": "12 ans et plus"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "6 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "1 séance"
+          }
+        ],
         "capacity": {
           "minimum": 5,
           "maximum": 6
@@ -79,12 +102,33 @@
       },
       "arel": {
         "category": "Campagne",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval fantastique",
-        "audience": "Confirmé",
-        "age_min": null,
-        "age_max": null,
-        "age_range": null,
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "Donjons & Dragons 5e"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "Médiéval fantastique"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Confirmé"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "6 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "30 séances"
+          }
+        ],
         "capacity": {
           "minimum": 3,
           "maximum": 6
@@ -131,12 +175,33 @@
       },
       "arel": {
         "category": "Campagne",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval Fantaisie",
-        "audience": "Débutant, Confirmé",
-        "age_min": null,
-        "age_max": null,
-        "age_range": null,
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "Donjons & Dragons 5e"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "Médiéval Fantaisie"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Débutant, Confirmé"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "7 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "7 séances"
+          }
+        ],
         "capacity": {
           "minimum": 4,
           "maximum": 7
@@ -200,12 +265,33 @@
       },
       "arel": {
         "category": "Campagne",
-        "universe": "Wrath & Glory - Warhammer 40000",
-        "setting": "SF dans l'univers de Warhammer 40k",
-        "audience": "Débutant, Confirmé",
-        "age_min": null,
-        "age_max": null,
-        "age_range": null,
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "Wrath & Glory - Warhammer 40000"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "SF dans l'univers de Warhammer 40k"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Débutant, Confirmé"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "5 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "20 séances"
+          }
+        ],
         "capacity": {
           "minimum": 3,
           "maximum": 5
@@ -235,12 +321,33 @@
       "recurrence": null,
       "arel": {
         "category": "Initiation",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval fantastique",
-        "audience": "Débutant",
-        "age_min": null,
-        "age_max": null,
-        "age_range": null,
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "Donjons & Dragons 5e"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "Médiéval fantastique"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Débutant"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "6 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "1 séance"
+          }
+        ],
         "capacity": {
           "minimum": 3,
           "maximum": 6
@@ -296,12 +403,33 @@
       },
       "arel": {
         "category": "Campagne",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval fantastique",
-        "audience": "Confirmé",
-        "age_min": null,
-        "age_max": null,
-        "age_range": null,
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "Donjons & Dragons 5e"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "Médiéval fantastique"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Confirmé"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "6 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "6 séances"
+          }
+        ],
         "capacity": {
           "minimum": 3,
           "maximum": 6
@@ -348,12 +476,33 @@
       },
       "arel": {
         "category": "Campagne",
-        "universe": "La Légende des 5 Anneaux",
-        "setting": "Fantasy médiévale japonaise",
-        "audience": "Débutant",
-        "age_min": null,
-        "age_max": null,
-        "age_range": null,
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "La Légende des 5 Anneaux"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "Fantasy médiévale japonaise"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Débutant"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "6 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "6 séances"
+          }
+        ],
         "capacity": {
           "minimum": 5,
           "maximum": 6
@@ -400,12 +549,33 @@
       },
       "arel": {
         "category": "Campagne",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval fantastique",
-        "audience": "Tous niveaux",
-        "age_min": null,
-        "age_max": null,
-        "age_range": null,
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "Donjons & Dragons 5e"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "Médiéval fantastique"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Tous niveaux"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "6 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "6 séances"
+          }
+        ],
         "capacity": {
           "minimum": 4,
           "maximum": 6
@@ -452,12 +622,33 @@
       },
       "arel": {
         "category": "Campagne",
-        "universe": "Donjons & Dragons 5e",
-        "setting": "Médiéval fantastique",
-        "audience": "Débutant",
-        "age_min": null,
-        "age_max": null,
-        "age_range": null,
+        "details": [
+          {
+            "key": "universe",
+            "label": "Jeu de rôle",
+            "value": "Donjons & Dragons 5e"
+          },
+          {
+            "key": "setting",
+            "label": "Cadre",
+            "value": "Médiéval fantastique"
+          },
+          {
+            "key": "audience",
+            "label": "Public visé",
+            "value": "Débutant"
+          },
+          {
+            "key": "capacity",
+            "label": "Places",
+            "value": "7 personnes"
+          },
+          {
+            "key": "sessions",
+            "label": "Durée estimée",
+            "value": "4 séances"
+          }
+        ],
         "capacity": {
           "minimum": 3,
           "maximum": 7
