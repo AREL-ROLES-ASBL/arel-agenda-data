@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "source": "discord_scheduled_events",
-  "generated_at": "2026-11-28T14:36:03Z",
+  "generated_at": "2026-11-28T14:37:52Z",
   "guild": {
     "id": "1350032902510870538",
     "name": "AREL-Rôles ASBL"
@@ -28,10 +28,10 @@
         "setting": "Médiéval fantastique",
         "audience": "Débutant",
         "age_min": 12,
-        "age_max": 16,
+        "age_max": null,
         "age_range": {
           "minimum": 12,
-          "maximum": 16
+          "maximum": null
         },
         "capacity": {
           "minimum": 5,
